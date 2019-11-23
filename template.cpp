@@ -7,6 +7,7 @@ using namespace std;
 #define vi vector<int>
 #define vll vector<long long>
 #define vii vector<vi>
+#define vpii vector<pair<int,int> >
 #define sll(x) scanf("%lld", &x)
 #define FOR(i,a,b) for(int i=(a);i<=(b);i++)
 #define FORD(i,a,b) for(int i=(a);i>=(b);i--)
